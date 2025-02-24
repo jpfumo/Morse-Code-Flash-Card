@@ -1,6 +1,7 @@
 # Morse-Code-Flash-Card
 Morse Code Flash Cards
-![IMG_0866](https://github.com/user-attachments/assets/5c91600b-b1fc-488f-bb84-eee815ba7538)
-![IMG_0867](https://github.com/user-attachments/assets/d961876b-0899-4a45-90fa-37e580f5e66a)
+![IMG_0882](https://github.com/user-attachments/assets/8f55d687-c7d9-49fe-99d8-cc063eb2e497)
+![IMG_0883](https://github.com/user-attachments/assets/31d191ba-be69-44e6-8913-b2bd27331640)
+
 
 
